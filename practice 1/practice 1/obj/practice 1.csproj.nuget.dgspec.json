@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj": {}
+    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj": {
+    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj",
+        "projectUniqueName": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj",
         "projectName": "practice 1",
-        "projectPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj",
+        "projectPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 1\\practice 1\\practice 1.csproj",
         "packagesPath": "C:\\Users\\ppodp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 1\\practice 1\\obj\\",
+        "outputPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 1\\practice 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ppodp\\AppData\\Roaming\\NuGet\\NuGet.Config",

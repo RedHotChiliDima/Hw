@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\C#\\mdk_01.01_K\\practice 2\\",
+  "WorkspaceRootPath": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\mdk_01.01_K\\practice 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40075DF5-856C-44E6-A108-B64A68F58265}|practice 2\\practice 2.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\c#\\mdk_01.01_k\\practice 2\\practice 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40075DF5-856C-44E6-A108-B64A68F58265}|practice 2\\practice 2.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\mdk_01.01_k\\practice 2\\practice 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40075DF5-856C-44E6-A108-B64A68F58265}|practice 2\\practice 2.csproj|solutionrelative:practice 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\C#\\mdk_01.01_K\\practice 2\\practice 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\mdk_01.01_K\\practice 2\\practice 2\\Program.cs",
               "RelativeDocumentMoniker": "practice 2\\Program.cs",
-              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\C#\\mdk_01.01_K\\practice 2\\practice 2\\Program.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\mdk_01.01_K\\practice 2\\practice 2\\Program.cs",
               "RelativeToolTip": "practice 2\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T17:01:25.833Z",
+              "WhenOpened": "2026-04-01T03:10:44.771Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

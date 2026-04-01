@@ -12,3 +12,4 @@ C:\Users\ppodp\OneDrive\Документы\HOMEWORK\mdk_01.01_K\practice 7\pract
 C:\Users\ppodp\OneDrive\Документы\HOMEWORK\mdk_01.01_K\practice 7\practice 7\obj\Debug\net8.0\practice 7.pdb
 C:\Users\ppodp\OneDrive\Документы\HOMEWORK\mdk_01.01_K\practice 7\practice 7\obj\Debug\net8.0\practice 7.genruntimeconfig.cache
 C:\Users\ppodp\OneDrive\Документы\HOMEWORK\mdk_01.01_K\practice 7\practice 7\obj\Debug\net8.0\ref\practice 7.dll
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\mdk_01.01_K\practice 7\practice 7\obj\Debug\net8.0\practice 7.sourcelink.json

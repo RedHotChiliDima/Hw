@@ -2,8 +2,8 @@
 {
     static void Main(string[] args)
     {
-        Warlock cock = new Warlock(100,100);
-        ((ISummoner)cock).Summon(-2);
+        Warlock hero = new Warlock(100,100);
+        ((ISummoner)hero).Summon(2);
         
     }
 }

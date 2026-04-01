@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj": {}
+    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj": {
+    "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj",
+        "projectUniqueName": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj",
         "projectName": "practice 4",
-        "projectPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj",
+        "projectPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 4\\practice 4\\practice 4.csproj",
         "packagesPath": "C:\\Users\\ppodp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\C#\\mdk_01.01_K\\practice 4\\practice 4\\obj\\",
+        "outputPath": "C:\\Users\\ppodp\\OneDrive\\Документы\\HOMEWORK\\mdk_01.01_K\\practice 4\\practice 4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ppodp\\AppData\\Roaming\\NuGet\\NuGet.Config",
