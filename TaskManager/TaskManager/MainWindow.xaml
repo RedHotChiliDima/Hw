@@ -1,0 +1,85 @@
+﻿<Window x:Class="TaskManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManager"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="MainWindow" Height="550" Width="800">
+    <Grid>
+        <StackPanel>
+        <TextBlock
+            Text="Список задач"
+            HorizontalAlignment="Center"
+            FontSize="16"
+            Margin="0,25,0,10"
+            />
+
+        <ListView
+            Margin="15,0,15,0" Height="250"
+            x:Name="TaskList"/>
+
+            <TextBlock
+            Text="Новая задача:"
+            FontSize="16"
+            Margin="25,10,0,0"
+            />
+            <Grid >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox
+                x:Name="TaskTextBox"
+                Height="40"
+                HorizontalAlignment="Stretch"
+                Margin="25,0,15,0"/>
+                
+                <Button
+                    x:Name="AddButton"
+                    Margin="25,0,25,0"
+                    Width="150"
+                    Content="Добавить"
+                    FontSize="16"
+                    Grid.Column="2"
+                    Click="AddButton_Click"
+                />
+            </Grid>
+
+            <UniformGrid Height="70" Margin="25,15,25,0">
+                <Button
+                    x:Name="DeleteButton"
+                    Margin="0,0,5,0"
+                    Content="Удалить выбранный"
+                    FontSize="16"
+                    Click="DeleteButton_Click"
+                    />
+                <Button
+                    x:Name="ClearButton"
+                    Margin="5,0,0,0"
+                    Content="Очистить список"
+                    FontSize="16"
+                    Click="ClearButton_Click"
+                    />
+                <Button
+                    x:Name="TaskDoneButton"
+                    Margin="0,0,5,0"
+                    Content="Пометить выполненной"
+                    FontSize="16"
+                    Click="TaskDoneButton_Click"
+                    />
+                <Button
+                    x:Name="TaskUnDoneButton"
+                    Margin="5,0,0,0"
+                    Content="Пометить не выполненной"
+                    FontSize="16"
+                    Click="TaskUnDoneButton_Click"
+                    />
+            </UniformGrid>
+
+        </StackPanel>
+
+    </Grid>
+</Window>
