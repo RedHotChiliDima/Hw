@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\C#\\mdk_01.04_P\\VBCarClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE6C0BE-5126-47E1-BBFA-DCBF39EF2890}|VBCarClient\\VBCarClient.vbproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\c#\\mdk_01.04_p\\vbcarclient\\vbcarclient\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CDE6C0BE-5126-47E1-BBFA-DCBF39EF2890}|VBCarClient\\VBCarClient.vbproj|solutionrelative:vbcarclient\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\C#\\mdk_01.04_P\\VBCarClient\\VBCarClient\\Module1.vb",
+              "RelativeDocumentMoniker": "VBCarClient\\Module1.vb",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\C#\\mdk_01.04_P\\VBCarClient\\VBCarClient\\Module1.vb",
+              "RelativeToolTip": "VBCarClient\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-29T14:53:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

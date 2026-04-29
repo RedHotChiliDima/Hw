@@ -1,0 +1,15 @@
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\bin\Debug\VBCarClient.exe.config
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\bin\Debug\VBCarClient.exe
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\bin\Debug\VBCarClient.pdb
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\bin\Debug\VBCarClient.xml
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\bin\Debug\CarLibrary.dll
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbproj.AssemblyReference.cache
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.Resources.resources
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbproj.GenerateResource.cache
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.vbproj.CoreCompileInputs.cache
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarCli.EC971B42.Up2Date
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.exe
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.xml
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.pdb
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\C#\mdk_01.04_P\VBCarClient\VBCarClient\obj\Debug\VBCarClient.exe.config
