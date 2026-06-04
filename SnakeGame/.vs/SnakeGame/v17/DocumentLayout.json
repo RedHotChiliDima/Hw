@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\bin\\Release\\SnakeGame.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SnakeGame\\bin\\Release\\SnakeGame.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\game\\gamestates\\recordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\game\\gamestates\\recordentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\game\\gamestates\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\game\\gamestates\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\menucontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\registercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\registercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\game\\gameticker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\game\\gameticker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\game\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\game\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\registercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\registercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|c:\\users\\ppodp\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\homework\\dz\\snakegame\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBE34B-6F95-4209-AB9C-95C774EA4D94}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeGame.exe.config",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\bin\\Release\\SnakeGame.exe.config",
+              "RelativeDocumentMoniker": "SnakeGame\\bin\\Release\\SnakeGame.exe.config",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\bin\\Release\\SnakeGame.exe.config",
+              "RelativeToolTip": "SnakeGame\\bin\\Release\\SnakeGame.exe.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-04T22:34:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordEntry.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\GameStates\\RecordEntry.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Game\\GameStates\\RecordEntry.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\GameStates\\RecordEntry.cs",
+              "RelativeToolTip": "SnakeGame\\Game\\GameStates\\RecordEntry.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T22:16:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\GameStates\\GameState.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Game\\GameStates\\GameState.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\GameStates\\GameState.cs",
+              "RelativeToolTip": "SnakeGame\\Game\\GameStates\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:52:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SnakeGame\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:10:40.233Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameTicker.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\GameTicker.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Game\\GameTicker.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\GameTicker.cs",
+              "RelativeToolTip": "SnakeGame\\Game\\GameTicker.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:53:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameControl.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\GameControl.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\GameControl.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\GameControl.cs",
+              "RelativeToolTip": "SnakeGame\\GameControl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:44:46.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\RegisterControl.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\RegisterControl.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\RegisterControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SnakeGame\\RegisterControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:23:45.597Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuControl.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\MenuControl.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\MenuControl.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\MenuControl.cs",
+              "RelativeToolTip": "SnakeGame\\MenuControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:46:43.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\MenuControl.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\MenuControl.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\MenuControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SnakeGame\\MenuControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:25:15.386Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\Snake.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Game\\Snake.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Game\\Snake.cs",
+              "RelativeToolTip": "SnakeGame\\Game\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:53:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\GameControl.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\GameControl.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\GameControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SnakeGame\\GameControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:26:03.99Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterControl.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\RegisterControl.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\RegisterControl.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\RegisterControl.cs",
+              "RelativeToolTip": "SnakeGame\\RegisterControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:27:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "C:\\Users\\ppodp\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\HOMEWORK\\dz\\SnakeGame\\SnakeGame\\Form1.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:31:46.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

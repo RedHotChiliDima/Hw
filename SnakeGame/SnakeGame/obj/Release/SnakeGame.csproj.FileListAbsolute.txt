@@ -1,0 +1,14 @@
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe.config
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\bin\Release\SnakeGame.exe
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\bin\Release\SnakeGame.pdb
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.Form1.resources
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.GameControl.resources
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.MenuControl.resources
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.Properties.Resources.resources
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.RegisterControl.resources
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.GenerateResource.cache
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.exe
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.pdb
+C:\Users\ppodp\OneDrive\Документы\HOMEWORK\dz\SnakeGame\SnakeGame\obj\Release\SnakeGame.exe.config
