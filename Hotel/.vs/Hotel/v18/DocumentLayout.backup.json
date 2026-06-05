@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|c:\\users\\densp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hotel\\hotel\\formbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|solutionrelative:hotel\\formbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|c:\\users\\densp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hotel\\hotel\\formbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|solutionrelative:hotel\\formbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|c:\\users\\densp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hotel\\hotel\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|solutionrelative:hotel\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|c:\\users\\densp\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\hotel\\hotel\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A7C5D1-2B4F-4A8E-9C1D-6F7A8B9C0D1E}|Hotel\\Hotel.csproj|solutionrelative:hotel\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBooking.cs",
+              "DocumentMoniker": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\FormBooking.cs",
+              "RelativeDocumentMoniker": "Hotel\\FormBooking.cs",
+              "ToolTip": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\FormBooking.cs*",
+              "RelativeToolTip": "Hotel\\FormBooking.cs*",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAewJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:10:55.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBooking.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\FormBooking.cs",
+              "RelativeDocumentMoniker": "Hotel\\FormBooking.cs",
+              "ToolTip": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\FormBooking.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Hotel\\FormBooking.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:05:04.031Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\FormResult.cs",
+              "RelativeDocumentMoniker": "Hotel\\FormResult.cs",
+              "ToolTip": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\FormResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Hotel\\FormResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:05:02.967Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\DataStore.cs",
+              "RelativeDocumentMoniker": "Hotel\\DataStore.cs",
+              "ToolTip": "C:\\Users\\DenSp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Hotel\\Hotel\\DataStore.cs*",
+              "RelativeToolTip": "Hotel\\DataStore.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwCcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:04:52.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

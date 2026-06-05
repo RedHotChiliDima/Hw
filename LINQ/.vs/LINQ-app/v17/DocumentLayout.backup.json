@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289855-BA56-41E6-9688-D8871BC45126}|LINQ-app.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\documents\\\u0438\u0441-21\\\u0443\u043F. 01.01\\linq-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289855-BA56-41E6-9688-D8871BC45126}|LINQ-app.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289855-BA56-41E6-9688-D8871BC45126}|LINQ-app.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\documents\\\u0438\u0441-21\\\u0443\u043F. 01.01\\linq-app\\cardextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289855-BA56-41E6-9688-D8871BC45126}|LINQ-app.csproj|solutionrelative:cardextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289855-BA56-41E6-9688-D8871BC45126}|LINQ-app.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\documents\\\u0438\u0441-21\\\u0443\u043F. 01.01\\linq-app\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289855-BA56-41E6-9688-D8871BC45126}|LINQ-app.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\CardExtensions.cs",
+              "RelativeDocumentMoniker": "CardExtensions.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\CardExtensions.cs",
+              "RelativeToolTip": "CardExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:15:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:02:14.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Documents\\\u0418\u0421-21\\\u0423\u041F. 01.01\\LINQ-app\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:55:18.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
